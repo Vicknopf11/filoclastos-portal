@@ -97,7 +97,7 @@ a:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }
   color: var(--navy);
 }
 
-.timbro { width: 100px; height: 100px; flex-shrink: 0; color: var(--gold); }
+.timbro { width: 100px; height: 100px; flex-shrink: 0; object-fit: contain; }
 
 .indice {
   list-style: none;
